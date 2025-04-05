@@ -162,3 +162,6 @@ The diagram is organized chronologically and by philosophical tradition:
    - Feminist Philosophy (de Beauvoir, Irigaray, Butler)
 
 Each section is color-coded for easier navigation, perfect for an ambitious philosophy undergrad who's gone above and beyond the required credits!
+
+
+![Alt Text](consciousnesssLandscape-copy.webp)
