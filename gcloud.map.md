@@ -151,8 +151,7 @@ graph TD
     Deployment --> CloudDeploy
 ```
 
-
-I'll create a comprehensive Mermaid diagram showing the major GCP technologies, their relationships, and associated gcloud commands.
+# a comprehensive Mermaid diagram showing the major GCP technologies, their relationships, and associated gcloud commands.
 
 ```mermaid
 graph TD
