@@ -1,4 +1,4 @@
-I'll create a comprehensive Mermaid diagram mapping Western philosophy's key figures and schools, including memorable signature phrases for each.
+#  comprehensive Mermaid diagram mapping Western philosophy's key figures and schools, including memorable signature phrases for each.
 
 ```mermaid
 graph TB
