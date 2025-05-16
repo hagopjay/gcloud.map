@@ -35,7 +35,7 @@ Hidden Years – carpenters life in Nazareth, obedience to parents
     </small>"]:::prelude --> 
     J4["BAPTISM OF JESUS<br><small>
         c AD 27 – Jordan River (likely Bethany-beyond-Jordan)<br>
-        1-day theophany: Spirit as dove • Voice \"My beloved Son\" (Matt 3, Mark 1, Luke 3)
+        1-day theophany: Spirit as dove • Voice My beloved Son (Matt 3, Mark 1, Luke 3)
     </small>"]:::prelude --> 
     J5["TEMPTATION IN THE WILDERNESS<br><small>
         40 days fasting • Satan’s three temptations (stones→bread, temple-pinnacle, kingdoms)<br>
