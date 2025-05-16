@@ -128,7 +128,7 @@ Hidden Years – carpenters life in Nazareth, obedience to parents
         >500 brothers at once (1 Cor 15)
     </small>"]:::postres --> 
     J26["ASCENSION (MOUNT OF OLIVES)<br><small>
-        Day 40 after Resurrection • \"Taken up in a cloud\" (Acts 1:9-11)<br>
+        Day 40 after Resurrection • Taken up in a cloud (Acts 1:9-11)<br>
         Two angels promise Second Coming
     </small>"]:::postres --> 
     J27["PENTECOST (ACTS 2)<br><small>
