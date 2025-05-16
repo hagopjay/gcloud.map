@@ -26,7 +26,7 @@ graph TD
     </small>"]:::infancy --> 
     J2["ADOLESCENCE<br><small>
         Passover c AD 8 – 12-year-old Jesus in Temple (Luke 2:41-52)<br>
-        \"Hidden Years\" – carpenters life in Nazareth, obedience to parents
+Hidden Years – carpenters life in Nazareth, obedience to parents
     </small>"]:::infancy
     %% =============  PRELUDE TO PUBLIC MINISTRY  ==============
     J2 --> J3["JOHN THE BAPTIST’S PREACHING<br><small>
